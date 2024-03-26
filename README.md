@@ -41,4 +41,4 @@ Be sure to address the following in your completed activity:
 <h2>Incident Report Analysis</h2>
 
 <p align="center">
- </p>
+<img src="https://imgur.com/BVCf7HQ.png" height="80%" width="80%" alt="Incident Report Analysis"/> </p>
